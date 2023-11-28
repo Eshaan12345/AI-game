@@ -1,0 +1,37 @@
+body
+{
+	background-size: cover;
+}
+
+#heading
+{
+	width: 100%;
+	background-color: brown;
+	margin-bottom: 30px;
+}
+
+#heading h1
+{
+	margin-top: 0;
+}
+
+#heading button
+{
+	margin-left: 86.5%;
+}
+
+#instructions h3
+{
+	width: 100%;
+	height: fit-content;
+	background-color: palevioletred;
+	margin-top: 0%;
+}
+
+#footer
+{
+	position: fixed;
+	bottom: 0;
+	width: 100%;
+	background-color: brown;
+}
